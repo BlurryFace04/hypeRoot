@@ -21,8 +21,8 @@ Hyperledger Fabric is an open-source blockchain framework hosted by the Linux Fo
 
 ## Resources
 - [**Application**](https://hyperoot.blurrys.in/)
-- [**Full Technical Documentation**](https://github.com/BlurryFace04/hypeRoot/hypeRoot-Project-Documentation.pdf)
-- [**Presentation**](https://github.com/BlurryFace04/hypeRoot/hypeRoot-Presentation)
+- [**Full Technical Documentation**](https://github.com/BlurryFace04/hypeRoot/blob/main/hypeRoot-Project-Documentation.pdf)
+- [**Presentation**](https://github.com/BlurryFace04/hypeRoot/blob/main/hypeRoot-Presentation.pdf)
 - [**Video Demonstration**](https://youtu.be/DYeGJa73xVM)
 
 
